@@ -64,32 +64,18 @@
       "id": 9
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "9 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
     },
     {
-      "titulo": "Sword of Convallaria - Official Game Overview | Tactics RPG",
-      "descricao": "164 mil visualizações",
-      "url": "https://www.youtube.com/embed/W-G8-fbuUoE",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
-    },
-    {
-      "titulo": "Sea of Stars #29 - Final (PC Game - PT-BR)",
-      "descricao": "4 mil visualizações",
-      "url": "https://youtube.com/embed/D4_HQcBxeOc",
-      "imagem": "https://yt3.ggpht.com/ytc/APkrFKYhvMYmZKwa_Sw4m99uLtxccPmv5NuOqcjIj4bDaA=s48-c-k-c0x00ffffff-no-rj",
-      "id": 12
-    },
-    {
-      "titulo": "4 mitos sobre programação #HipstersPontoTube",
-      "descricao": "9 mil visualizações",
-      "url": "https://youtube.com/embed/yj0FR_gm0sM",
-      "imagem": "https://yt3.ggpht.com/j4iXGwPTvIk6V6EkuAN2T4lILN4GINdFvNtGaYPiuRCQXTz4XbraeEu9syUdTWDME_NAbVOg=s88-c-k-c0x00ffffff-no-rj",
-      "id": 13
     }
   ]
 }
